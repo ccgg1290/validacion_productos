@@ -1,0 +1,17 @@
+-- --------------- INSERT MAHINDRA --------------- 
+ 
+
+--  xxxxxxxxxxxxxxxxxxxxxxxxxx 141 TIGO [1] xxxxxxxxxxxxxxxxxxxxxxxxxx  
+ 
+-- ---MOVIIRED 
+ INSERT INTO movii_nuevos_convenios.ws_operator (max_value, microservice_root, microservice_url, min_value, operator_name, name, details_expiration, operator_id, product_code, reg_exp, type, ean_code, multiple, status, status_view, product_image, tax, category_id, sub_type, calculate_iva) VALUES(15000, 'http://192.168.31.20:303/ws_TIGO/', 'buyPackage', 15000, 'TIGO', ' APPS / 15 dias / $15.000 / 5GB + Min Ilimit', '15 DIAS', 3, '141', '^3[0-9]{9}$', 1, '7709990173066', 15000, 1, 1, 'https://tendero.moviired.co:64945/app/media/op05.png', NULL, NULL, 3, 0); 
+ 
+-- ---MOVII 
+ INSERT INTO movii_nuevos_convenios_movii.ws_operator (max_value, microservice_root, microservice_url, min_value, operator_name, name, details_expiration, operator_id, product_code, reg_exp, type, ean_code, multiple, status, status_view, product_image, tax, category_id, sub_type, calculate_iva) VALUES(15000, 'http://192.168.31.20:303/ws_TIGO/', 'buyPackage', 15000, 'TIGO', ' APPS / 15 dias / $15.000 / 5GB + Min Ilimit', '15 DIAS', 3, '141', '^3[0-9]{9}$', 1, '7709990173066', 15000, 1, 1, 'https://tendero.moviired.co:64945/app/media/op05.png', NULL, NULL, 3, 0);
+--  xxxxxxxxxxxxxxxxxxxxxxxxxx IPP_Paquete15DMixto WOM [2] xxxxxxxxxxxxxxxxxxxxxxxxxx  
+ 
+-- ---MOVIIRED 
+ INSERT INTO movii_nuevos_convenios.ws_operator (max_value, microservice_root, microservice_url, min_value, operator_name, name, details_expiration, operator_id, product_code, reg_exp, type, ean_code, multiple, status, status_view, product_image, tax, category_id, sub_type, calculate_iva) VALUES(10000, 'http://192.168.31.20:335/ws_WOM/', 'buyPackage', 10000, 'WOM', 'Paquete Mixto 15D. Min Ilim +3GB+(WS+FB+ SMS)Ilim', '15 DIAS', 73, 'IPP_Paquete15DMixto', '^3[0-9]{9}$', 1, '5573000001008', 10000, 1, 1, 'https://tendero.moviired.co:64945/app/media/wom.png', '', NULL, 4, 0); 
+ 
+-- ---MOVII 
+ INSERT INTO movii_nuevos_convenios_movii.ws_operator (max_value, microservice_root, microservice_url, min_value, operator_name, name, details_expiration, operator_id, product_code, reg_exp, type, ean_code, multiple, status, status_view, product_image, tax, category_id, sub_type, calculate_iva) VALUES(10000, 'http://192.168.31.20:335/ws_WOM/', 'buyPackage', 10000, 'WOM', 'Paquete Mixto 15D. Min Ilim +3GB+(WS+FB+ SMS)Ilim', '15 DIAS', 73, 'IPP_Paquete15DMixto', '^3[0-9]{9}$', 1, '5573000001008', 10000, 1, 1, 'https://tendero.moviired.co:64945/app/media/wom.png', '', NULL, 4, 0);

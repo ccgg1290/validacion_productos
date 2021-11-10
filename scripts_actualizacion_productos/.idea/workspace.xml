@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="85fc3469-e3c1-4645-b8dd-5e11b339c8c4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/update_productos-final/tx.list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/update_productos-final/update_alianzas.py" beforeDir="false" afterPath="$PROJECT_DIR$/update_productos-final/update_alianzas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/update_productos-final/update_movii.py" beforeDir="false" afterPath="$PROJECT_DIR$/update_productos-final/update_movii.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/update_productos-final/update_moviired.py" beforeDir="false" afterPath="$PROJECT_DIR$/update_productos-final/update_moviired.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/update_productos-final/update_zeus.py" beforeDir="false" afterPath="$PROJECT_DIR$/update_productos-final/update_zeus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/update_productos-final/updates_paquetes.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/update_productos-final" />
+  </component>
+  <component name="ProjectId" id="201YWt6RVWVu9symKcx9vwOh3Qa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85fc3469-e3c1-4645-b8dd-5e11b339c8c4" name="Changes" comment="" />
+      <created>1635213595467</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635213595467</updated>
+    </task>
+    <servers />
+  </component>
+</project>

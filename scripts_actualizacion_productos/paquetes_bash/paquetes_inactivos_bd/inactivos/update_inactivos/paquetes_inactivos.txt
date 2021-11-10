@@ -1,0 +1,139 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  UPDATE MAHINDRA  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+
+
+--  xxxxxxxxxxxxxxxxxxxxxxxxxx update MicroYoinLite_caja YOIN [1] xxxxxxxxxxxxxxxxxxxxxxxxxx  
+ 
+-- ---MOVIIRED 
+ update movii_nuevos_convenios.ws_operator set ean_code = '5500003500000', status=1, status_view=1 where id=; -- MicroYoinLite_caja 
+ 
+-- ---MOVII 
+ update movii_nuevos_convenios_movii.ws_operator set ean_code = '5500003500000', status=1, status_view=1 where id=; -- MicroYoinLite_caja
+
+
+--  xxxxxxxxxxxxxxxxxxxxxxxxxx update MicroYoinFresh_caja YOIN [2] xxxxxxxxxxxxxxxxxxxxxxxxxx  
+ 
+-- ---MOVIIRED 
+ update movii_nuevos_convenios.ws_operator set ean_code = '5500006500000', status=1, status_view=1 where id=; -- MicroYoinFresh_caja 
+ 
+-- ---MOVII 
+ update movii_nuevos_convenios_movii.ws_operator set ean_code = '5500006500000', status=1, status_view=1 where id=; -- MicroYoinFresh_caja
+
+
+--  xxxxxxxxxxxxxxxxxxxxxxxxxx update MicroYoinFull_caja YOIN [3] xxxxxxxxxxxxxxxxxxxxxxxxxx  
+ 
+-- ---MOVIIRED 
+ update movii_nuevos_convenios.ws_operator set ean_code = '5500001000000', status=1, status_view=1 where id=; -- MicroYoinFull_caja 
+ 
+-- ---MOVII 
+ update movii_nuevos_convenios_movii.ws_operator set ean_code = '5500001000000', status=1, status_view=1 where id=; -- MicroYoinFull_caja
+
+
+--  xxxxxxxxxxxxxxxxxxxxxxxxxx update MicroYoinPremium_caja YOIN [4] xxxxxxxxxxxxxxxxxxxxxxxxxx  
+ 
+-- ---MOVIIRED 
+ update movii_nuevos_convenios.ws_operator set ean_code = '5500007500000', status=1, status_view=1 where id=; -- MicroYoinPremium_caja 
+ 
+-- ---MOVII 
+ update movii_nuevos_convenios_movii.ws_operator set ean_code = '5500007500000', status=1, status_view=1 where id=; -- MicroYoinPremium_caja
+
+
+--  xxxxxxxxxxxxxxxxxxxxxxxxxx update MicroYoinPremiumPlus_caja YOIN [5] xxxxxxxxxxxxxxxxxxxxxxxxxx  
+ 
+-- ---MOVIIRED 
+ update movii_nuevos_convenios.ws_operator set ean_code = '5500002700000', status=1, status_view=1 where id=; -- MicroYoinPremiumPlus_caja 
+ 
+-- ---MOVII 
+ update movii_nuevos_convenios_movii.ws_operator set ean_code = '5500002700000', status=1, status_view=1 where id=; -- MicroYoinPremiumPlus_caja
+
+
+--  xxxxxxxxxxxxxxxxxxxxxxxxxx update MicroYoinPremiumNavegacion_caja YOIN [6] xxxxxxxxxxxxxxxxxxxxxxxxxx  
+ 
+-- ---MOVIIRED 
+ update movii_nuevos_convenios.ws_operator set ean_code = '5500005850000', status=1, status_view=1 where id=; -- MicroYoinPremiumNavegacion_caja 
+ 
+-- ---MOVII 
+ update movii_nuevos_convenios_movii.ws_operator set ean_code = '5500005850000', status=1, status_view=1 where id=; -- MicroYoinPremiumNavegacion_caja
+
+
+
+
+
+--  ####################################  UPDATE ALIANZAS #################################### 
+
+
+--  xxxxxxxxxxxxxxxxxxxxxxxxxx update MicroYoinLite_caja YOIN [1] xxxxxxxxxxxxxxxxxxxxxxxxxx  
+ 
+-- ---ALIANZAS 
+  update  ALIANZAS.PRODUCTO  set  EANCODE ='5500003500000', ESTADO=1 where PROD_ ID= ; -- MicroYoinLite_caja
+
+
+--  xxxxxxxxxxxxxxxxxxxxxxxxxx update MicroYoinFresh_caja YOIN [2] xxxxxxxxxxxxxxxxxxxxxxxxxx  
+ 
+-- ---ALIANZAS 
+  update  ALIANZAS.PRODUCTO  set  EANCODE ='5500006500000', ESTADO=1 where PROD_ ID= ; -- MicroYoinFresh_caja
+
+
+--  xxxxxxxxxxxxxxxxxxxxxxxxxx update MicroYoinFull_caja YOIN [3] xxxxxxxxxxxxxxxxxxxxxxxxxx  
+ 
+-- ---ALIANZAS 
+  update  ALIANZAS.PRODUCTO  set  EANCODE ='5500001000000', ESTADO=1 where PROD_ ID= ; -- MicroYoinFull_caja
+
+
+--  xxxxxxxxxxxxxxxxxxxxxxxxxx update MicroYoinPremium_caja YOIN [4] xxxxxxxxxxxxxxxxxxxxxxxxxx  
+ 
+-- ---ALIANZAS 
+  update  ALIANZAS.PRODUCTO  set  EANCODE ='5500007500000', ESTADO=1 where PROD_ ID= ; -- MicroYoinPremium_caja
+
+
+--  xxxxxxxxxxxxxxxxxxxxxxxxxx update MicroYoinPremiumPlus_caja YOIN [5] xxxxxxxxxxxxxxxxxxxxxxxxxx  
+ 
+-- ---ALIANZAS 
+  update  ALIANZAS.PRODUCTO  set  EANCODE ='5500002700000', ESTADO=1 where PROD_ ID= ; -- MicroYoinPremiumPlus_caja
+
+
+--  xxxxxxxxxxxxxxxxxxxxxxxxxx update MicroYoinPremiumNavegacion_caja YOIN [6] xxxxxxxxxxxxxxxxxxxxxxxxxx  
+ 
+-- ---ALIANZAS 
+  update  ALIANZAS.PRODUCTO  set  EANCODE ='5500005850000', ESTADO=1 where PROD_ ID= ; -- MicroYoinPremiumNavegacion_caja
+
+
+
+
+
+--  #################################### UPDATE GETRAX #################################### 
+
+
+--  xxxxxxxxxxxxxxxxxxxxxxxxxx update MicroYoinLite_caja YOIN [1] xxxxxxxxxxxxxxxxxxxxxxxxxx  
+ 
+-- ---GETRAX 
+ update ZEUS.PRODUCTO  set  EANCODE ='5500003500000', ESTADO=1 where PROD_ ID=; -- MicroYoinLite_caja
+
+
+--  xxxxxxxxxxxxxxxxxxxxxxxxxx update MicroYoinFresh_caja YOIN [2] xxxxxxxxxxxxxxxxxxxxxxxxxx  
+ 
+-- ---GETRAX 
+ update ZEUS.PRODUCTO  set  EANCODE ='5500006500000', ESTADO=1 where PROD_ ID=; -- MicroYoinFresh_caja
+
+
+--  xxxxxxxxxxxxxxxxxxxxxxxxxx update MicroYoinFull_caja YOIN [3] xxxxxxxxxxxxxxxxxxxxxxxxxx  
+ 
+-- ---GETRAX 
+ update ZEUS.PRODUCTO  set  EANCODE ='5500001000000', ESTADO=1 where PROD_ ID=; -- MicroYoinFull_caja
+
+
+--  xxxxxxxxxxxxxxxxxxxxxxxxxx update MicroYoinPremium_caja YOIN [4] xxxxxxxxxxxxxxxxxxxxxxxxxx  
+ 
+-- ---GETRAX 
+ update ZEUS.PRODUCTO  set  EANCODE ='5500007500000', ESTADO=1 where PROD_ ID=; -- MicroYoinPremium_caja
+
+
+--  xxxxxxxxxxxxxxxxxxxxxxxxxx update MicroYoinPremiumPlus_caja YOIN [5] xxxxxxxxxxxxxxxxxxxxxxxxxx  
+ 
+-- ---GETRAX 
+ update ZEUS.PRODUCTO  set  EANCODE ='5500002700000', ESTADO=1 where PROD_ ID=; -- MicroYoinPremiumPlus_caja
+
+
+--  xxxxxxxxxxxxxxxxxxxxxxxxxx update MicroYoinPremiumNavegacion_caja YOIN [6] xxxxxxxxxxxxxxxxxxxxxxxxxx  
+ 
+-- ---GETRAX 
+ update ZEUS.PRODUCTO  set  EANCODE ='5500005850000', ESTADO=1 where PROD_ ID=; -- MicroYoinPremiumNavegacion_caja
