@@ -1,0 +1,240 @@
+-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx MOVIIRED xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ 
+-- paquete no existe [1]
+ 
+-- paquete no existe [2]
+ 
+-- paquete no existe [3]
+ 
+update movii_nuevos_convenios.ws_operator set status=0 , status_view=0 where id =73; -- [4]
+ 
+update movii_nuevos_convenios.ws_operator set status=0 , status_view=0 where id =83; -- [5]
+ 
+update movii_nuevos_convenios.ws_operator set status=0 , status_view=0 where id =84; -- [6]
+ 
+-- paquete no existe [7]
+ 
+update movii_nuevos_convenios.ws_operator set status=0 , status_view=0 where id =96; -- [8]
+ 
+update movii_nuevos_convenios.ws_operator set status=0 , status_view=0 where id =79; -- [9]
+ 
+-- paquete no existe [10]
+ 
+update movii_nuevos_convenios.ws_operator set status=0 , status_view=0 where id =77; -- [11]
+ 
+update movii_nuevos_convenios.ws_operator set status=0 , status_view=0 where id =85; -- [12]
+ 
+-- paquete no existe [13]
+ 
+update movii_nuevos_convenios.ws_operator set status=0 , status_view=0 where id =75; -- [14]
+ 
+update movii_nuevos_convenios.ws_operator set status=0 , status_view=0 where id =70; -- [15]
+ 
+-- paquete no existe [16]
+ 
+-- paquete no existe [17]
+ 
+-- paquete no existe [18]
+ 
+-- paquete no existe [19]
+ 
+-- paquete no existe [20]
+ 
+-- paquete no existe [21]
+ 
+update movii_nuevos_convenios.ws_operator set status=0 , status_view=0 where id =413; -- [22]
+ 
+-- paquete no existe [23]
+ 
+update movii_nuevos_convenios.ws_operator set status=0 , status_view=0 where id =94; -- [24]
+ 
+update movii_nuevos_convenios.ws_operator set status=0 , status_view=0 where id =414; -- [25]
+ 
+-- paquete no existe [26]
+ 
+-- paquete no existe [27]
+ 
+-- paquete no existe [28]
+ 
+-- paquete no existe [29]
+ 
+-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx MOVII xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ 
+-- paquete no existe [1]
+ 
+-- paquete no existe [2]
+ 
+-- paquete no existe [3]
+ 
+update movii_nuevos_convenios_movii.ws_operator set  status=0 , status_view=0 where id =73; -- [4]
+ 
+update movii_nuevos_convenios_movii.ws_operator set  status=0 , status_view=0 where id =83; -- [5]
+ 
+update movii_nuevos_convenios_movii.ws_operator set  status=0 , status_view=0 where id =84; -- [6]
+ 
+-- paquete no existe [7]
+ 
+update movii_nuevos_convenios_movii.ws_operator set  status=0 , status_view=0 where id =96; -- [8]
+ 
+update movii_nuevos_convenios_movii.ws_operator set  status=0 , status_view=0 where id =79; -- [9]
+ 
+-- paquete no existe [10]
+ 
+update movii_nuevos_convenios_movii.ws_operator set  status=0 , status_view=0 where id =77; -- [11]
+ 
+update movii_nuevos_convenios_movii.ws_operator set  status=0 , status_view=0 where id =85; -- [12]
+ 
+-- paquete no existe [13]
+ 
+update movii_nuevos_convenios_movii.ws_operator set  status=0 , status_view=0 where id =75; -- [14]
+ 
+update movii_nuevos_convenios_movii.ws_operator set  status=0 , status_view=0 where id =70; -- [15]
+ 
+-- paquete no existe [16]
+ 
+-- paquete no existe [17]
+ 
+-- paquete no existe [18]
+ 
+-- paquete no existe [19]
+ 
+-- paquete no existe [20]
+ 
+-- paquete no existe [21]
+ 
+update movii_nuevos_convenios_movii.ws_operator set  status=0 , status_view=0 where id =347; -- [22]
+ 
+-- paquete no existe [23]
+ 
+update movii_nuevos_convenios_movii.ws_operator set  status=0 , status_view=0 where id =94; -- [24]
+ 
+update movii_nuevos_convenios_movii.ws_operator set  status=0 , status_view=0 where id =348; -- [25]
+ 
+-- paquete no existe [26]
+ 
+-- paquete no existe [27]
+ 
+-- paquete no existe [28]
+ 
+-- paquete no existe [29]
+ 
+-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ALIANZAS xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ 
+update ALIANZAS.PRODUCTO set  EANCODE = '770213814034-INACT', ESTADO = 0  where PROD_ID =8081; -- [1]
+ 
+update ALIANZAS.PRODUCTO set  EANCODE = '770213814020-INACT', ESTADO = 0  where PROD_ID =8068; -- [2]
+ 
+update ALIANZAS.PRODUCTO set  EANCODE = '770213814022-INACT', ESTADO = 0  where PROD_ID =8070; -- [3]
+ 
+update ALIANZAS.PRODUCTO set  EANCODE = '7702138140247-INACT', ESTADO = 0  where PROD_ID =8048; -- [4]
+ 
+update ALIANZAS.PRODUCTO set  EANCODE = '7702138140353-INACT', ESTADO = 0  where PROD_ID =8058; -- [5]
+ 
+update ALIANZAS.PRODUCTO set  EANCODE = '7702138140360-INACT', ESTADO = 0  where PROD_ID =8059; -- [6]
+ 
+update ALIANZAS.PRODUCTO set  EANCODE = '770213814025-INACT', ESTADO = 0  where PROD_ID =8073; -- [7]
+ 
+update ALIANZAS.PRODUCTO set  EANCODE = '7702138140285-INACT', ESTADO = 0  where PROD_ID =8051; -- [8]
+ 
+update ALIANZAS.PRODUCTO set  EANCODE = '7702138140315-INACT', ESTADO = 0  where PROD_ID =8054; -- [9]
+ 
+update ALIANZAS.PRODUCTO set  EANCODE = '770213814033-INACT', ESTADO = 0  where PROD_ID =8080; -- [10]
+ 
+update ALIANZAS.PRODUCTO set  EANCODE = '7702138140292-INACT', ESTADO = 0  where PROD_ID =8052; -- [11]
+ 
+update ALIANZAS.PRODUCTO set  EANCODE = '7702138140377-INACT', ESTADO = 0  where PROD_ID =8060; -- [12]
+ 
+update ALIANZAS.PRODUCTO set  EANCODE = '770213814039-INACT', ESTADO = 0  where PROD_ID =8086; -- [13]
+ 
+update ALIANZAS.PRODUCTO set  EANCODE = '7702138140261-INACT', ESTADO = 0  where PROD_ID =8050; -- [14]
+ 
+update ALIANZAS.PRODUCTO set  EANCODE = '7702138140216-INACT', ESTADO = 0  where PROD_ID =8045; -- [15]
+ 
+update ALIANZAS.PRODUCTO set  EANCODE = '770213814023-INACT', ESTADO = 0  where PROD_ID =8071; -- [16]
+ 
+update ALIANZAS.PRODUCTO set  EANCODE = '770213814042-INACT', ESTADO = 0  where PROD_ID =8089; -- [17]
+ 
+update ALIANZAS.PRODUCTO set  EANCODE = '770213814041-INACT', ESTADO = 0  where PROD_ID =8088; -- [18]
+ 
+update ALIANZAS.PRODUCTO set  EANCODE = '770213814040-INACT', ESTADO = 0  where PROD_ID =8087; -- [19]
+ 
+update ALIANZAS.PRODUCTO set  EANCODE = '770213814030-INACT', ESTADO = 0  where PROD_ID =8077; -- [20]
+ 
+update ALIANZAS.PRODUCTO set  EANCODE = '770213814032-INACT', ESTADO = 0  where PROD_ID =8079; -- [21]
+ 
+update ALIANZAS.PRODUCTO set  EANCODE = '7702138140384-INACT', ESTADO = 0  where PROD_ID =8061; -- [22]
+ 
+update ALIANZAS.PRODUCTO set  EANCODE = '770213814038-INACT', ESTADO = 0  where PROD_ID =8085; -- [23]
+ 
+update ALIANZAS.PRODUCTO set  EANCODE = '7702138144146-INACT', ESTADO = 0  where PROD_ID =8107; -- [24]
+ 
+update ALIANZAS.PRODUCTO set  EANCODE = '7702138144153-INACT', ESTADO = 0  where PROD_ID =8108; -- [25]
+ 
+update ALIANZAS.PRODUCTO set  EANCODE = '7702138144160-INACT', ESTADO = 0  where PROD_ID =8105; -- [26]
+ 
+update ALIANZAS.PRODUCTO set  EANCODE = '770213814416-INACT', ESTADO = 0  where PROD_ID =8109; -- [27]
+ 
+update ALIANZAS.PRODUCTO set  EANCODE = '7702138144177-INACT', ESTADO = 0  where PROD_ID =8106; -- [28]
+ 
+update ALIANZAS.PRODUCTO set  EANCODE = '770213814417-INACT', ESTADO = 0  where PROD_ID =8110; -- [29]
+ 
+-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx ZEUS xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ 
+-- paquete no existe [1]
+ 
+-- paquete no existe [2]
+ 
+-- paquete no existe [3]
+ 
+update ZEUS.PRODUCTO set  EANCODE = '7702138140247-INACT', ESTADO = 0  where PROD_ID = 8079; -- [4]
+ 
+update ZEUS.PRODUCTO set  EANCODE = '7702138140353-INACT', ESTADO = 0  where PROD_ID = 8089; -- [5]
+ 
+update ZEUS.PRODUCTO set  EANCODE = '7702138140360-INACT', ESTADO = 0  where PROD_ID = 8090; -- [6]
+ 
+-- paquete no existe [7]
+ 
+update ZEUS.PRODUCTO set  EANCODE = '7702138140285-INACT', ESTADO = 0  where PROD_ID = 8082; -- [8]
+ 
+update ZEUS.PRODUCTO set  EANCODE = '7702138140315-INACT', ESTADO = 0  where PROD_ID = 8085; -- [9]
+ 
+-- paquete no existe [10]
+ 
+update ZEUS.PRODUCTO set  EANCODE = '7702138140292-INACT', ESTADO = 0  where PROD_ID = 8083; -- [11]
+ 
+update ZEUS.PRODUCTO set  EANCODE = '7702138140377-INACT', ESTADO = 0  where PROD_ID = 8091; -- [12]
+ 
+-- paquete no existe [13]
+ 
+update ZEUS.PRODUCTO set  EANCODE = '7702138140261-INACT', ESTADO = 0  where PROD_ID = 8081; -- [14]
+ 
+update ZEUS.PRODUCTO set  EANCODE = '7702138140216-INACT', ESTADO = 0  where PROD_ID = 8076; -- [15]
+ 
+-- paquete no existe [16]
+ 
+-- paquete no existe [17]
+ 
+-- paquete no existe [18]
+ 
+-- paquete no existe [19]
+ 
+-- paquete no existe [20]
+ 
+-- paquete no existe [21]
+ 
+update ZEUS.PRODUCTO set  EANCODE = '7702138140384-INACT', ESTADO = 0  where PROD_ID = 8092; -- [22]
+ 
+-- paquete no existe [23]
+ 
+update ZEUS.PRODUCTO set  EANCODE = '7702138144146-INACT', ESTADO = 0  where PROD_ID = 8115; -- [24]
+ 
+update ZEUS.PRODUCTO set  EANCODE = '7702138144153-INACT', ESTADO = 0  where PROD_ID = 8116; -- [25]
+ 
+update ZEUS.PRODUCTO set  EANCODE = '7702138144160-INACT', ESTADO = 0  where PROD_ID = 8113; -- [26]
+ 
+-- paquete no existe [27]
+ 
+update ZEUS.PRODUCTO set  EANCODE = '7702138144177-INACT', ESTADO = 0  where PROD_ID = 8114; -- [28]
+ 
+-- paquete no existe [29]
+ 

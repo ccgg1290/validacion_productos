@@ -1,0 +1,57 @@
+-- --------------- INSERT MAHINDRA --------------- 
+ 
+
+
+
+--  xxxxxxxxxxxxxxxxxxxxxxxxxx insert MicroYoinLite_caja YOIN [1] xxxxxxxxxxxxxxxxxxxxxxxxxx  
+ 
+-- ---MOVIIRED 
+ INSERT INTO movii_nuevos_convenios.ws_operator (max_value, microservice_root, microservice_url, min_value, operator_name, name, details_expiration, operator_id, product_code, reg_exp, type, ean_code, multiple, status, status_view, product_image, tax, category_id, sub_type, calculate_iva) VALUES(3500, 'http://192.168.31.20:3178/ws_SUMA/', 'buyPackage', 3500, 'YOIN MOVIL', '200MB + Voz y SMS Ilimitados + Chat FB-WA. Hasta 3 dias', '3 Dias', 76, 'MicroYoinLite_caja', '^3[0-9]{9}$', 1, '5500003500000 -INACT', 3500, 0, 0, 'https://tendero.moviired.co:64945/app/media/unicorn.png', '', NULL, 4, 0); 
+ 
+-- ---MOVII 
+ INSERT INTO movii_nuevos_convenios_movii.ws_operator (max_value, microservice_root, microservice_url, min_value, operator_name, name, details_expiration, operator_id, product_code, reg_exp, type, ean_code, multiple, status, status_view, product_image, tax, category_id, sub_type, calculate_iva) VALUES(3500, 'http://192.168.31.20:3178/ws_SUMA/', 'buyPackage', 3500, 'YOIN MOVIL', '200MB + Voz y SMS Ilimitados + Chat FB-WA. Hasta 3 dias', '3 Dias', 76, 'MicroYoinLite_caja', '^3[0-9]{9}$', 1, '5500003500000 -INACT', 3500, 0, 0, 'https://tendero.moviired.co:64945/app/media/unicorn.png', '', NULL, 4, 0); 
+
+
+--  xxxxxxxxxxxxxxxxxxxxxxxxxx insert MicroYoinFresh_caja YOIN [2] xxxxxxxxxxxxxxxxxxxxxxxxxx  
+ 
+-- ---MOVIIRED 
+ INSERT INTO movii_nuevos_convenios.ws_operator (max_value, microservice_root, microservice_url, min_value, operator_name, name, details_expiration, operator_id, product_code, reg_exp, type, ean_code, multiple, status, status_view, product_image, tax, category_id, sub_type, calculate_iva) VALUES(6500, 'http://192.168.31.20:3178/ws_SUMA/', 'buyPackage', 6500, 'YOIN MOVIL', '400MB + Voz y SMS Ilimitados + Chat FB-WA. Hasta 6 dias', '6 Dias', 76, 'MicroYoinFresh_caja', '^3[0-9]{9}$', 1, '5500006500000 -INACT', 6500, 0, 0, 'https://tendero.moviired.co:64945/app/media/unicorn.png', '', NULL, 4, 0); 
+ 
+-- ---MOVII 
+ INSERT INTO movii_nuevos_convenios_movii.ws_operator (max_value, microservice_root, microservice_url, min_value, operator_name, name, details_expiration, operator_id, product_code, reg_exp, type, ean_code, multiple, status, status_view, product_image, tax, category_id, sub_type, calculate_iva) VALUES(6500, 'http://192.168.31.20:3178/ws_SUMA/', 'buyPackage', 6500, 'YOIN MOVIL', '400MB + Voz y SMS Ilimitados + Chat FB-WA. Hasta 6 dias', '6 Dias', 76, 'MicroYoinFresh_caja', '^3[0-9]{9}$', 1, '5500006500000 -INACT', 6500, 0, 0, 'https://tendero.moviired.co:64945/app/media/unicorn.png', '', NULL, 4, 0); 
+
+
+--  xxxxxxxxxxxxxxxxxxxxxxxxxx insert MicroYoinFull_caja YOIN [3] xxxxxxxxxxxxxxxxxxxxxxxxxx  
+ 
+-- ---MOVIIRED 
+ INSERT INTO movii_nuevos_convenios.ws_operator (max_value, microservice_root, microservice_url, min_value, operator_name, name, details_expiration, operator_id, product_code, reg_exp, type, ean_code, multiple, status, status_view, product_image, tax, category_id, sub_type, calculate_iva) VALUES(10000, 'http://192.168.31.20:3178/ws_SUMA/', 'buyPackage', 10000, 'YOIN MOVIL', '500MB + Voz y SMS Ilimitados + Chat FB-WA. Hasta 10 dias', '10 Dias', 76, 'MicroYoinFull_caja', '^3[0-9]{9}$', 1, '5500001000000 -INACT', 10000, 0, 0, 'https://tendero.moviired.co:64945/app/media/unicorn.png', '', NULL, 4, 0); 
+ 
+-- ---MOVII 
+ INSERT INTO movii_nuevos_convenios_movii.ws_operator (max_value, microservice_root, microservice_url, min_value, operator_name, name, details_expiration, operator_id, product_code, reg_exp, type, ean_code, multiple, status, status_view, product_image, tax, category_id, sub_type, calculate_iva) VALUES(10000, 'http://192.168.31.20:3178/ws_SUMA/', 'buyPackage', 10000, 'YOIN MOVIL', '500MB + Voz y SMS Ilimitados + Chat FB-WA. Hasta 10 dias', '10 Dias', 76, 'MicroYoinFull_caja', '^3[0-9]{9}$', 1, '5500001000000 -INACT', 10000, 0, 0, 'https://tendero.moviired.co:64945/app/media/unicorn.png', '', NULL, 4, 0); 
+
+
+--  xxxxxxxxxxxxxxxxxxxxxxxxxx insert MicroYoinPremium_caja YOIN [4] xxxxxxxxxxxxxxxxxxxxxxxxxx  
+ 
+-- ---MOVIIRED 
+ INSERT INTO movii_nuevos_convenios.ws_operator (max_value, microservice_root, microservice_url, min_value, operator_name, name, details_expiration, operator_id, product_code, reg_exp, type, ean_code, multiple, status, status_view, product_image, tax, category_id, sub_type, calculate_iva) VALUES(17500, 'http://192.168.31.20:3178/ws_SUMA/', 'buyPackage', 17500, 'YOIN MOVIL', '2.5GB + 400Min + SMS Ilimitados + Chat FB-WA. Hasta 30 dias', '30 Dias', 76, 'MicroYoinPremium_caja', '^3[0-9]{9}$', 1, '5500007500000 -INACT', 17500, 0, 0, 'https://tendero.moviired.co:64945/app/media/unicorn.png', '', NULL, 4, 0); 
+ 
+-- ---MOVII 
+ INSERT INTO movii_nuevos_convenios_movii.ws_operator (max_value, microservice_root, microservice_url, min_value, operator_name, name, details_expiration, operator_id, product_code, reg_exp, type, ean_code, multiple, status, status_view, product_image, tax, category_id, sub_type, calculate_iva) VALUES(17500, 'http://192.168.31.20:3178/ws_SUMA/', 'buyPackage', 17500, 'YOIN MOVIL', '2.5GB + 400Min + SMS Ilimitados + Chat FB-WA. Hasta 30 dias', '30 Dias', 76, 'MicroYoinPremium_caja', '^3[0-9]{9}$', 1, '5500007500000 -INACT', 17500, 0, 0, 'https://tendero.moviired.co:64945/app/media/unicorn.png', '', NULL, 4, 0); 
+
+
+--  xxxxxxxxxxxxxxxxxxxxxxxxxx insert MicroYoinPremiumPlus_caja YOIN [5] xxxxxxxxxxxxxxxxxxxxxxxxxx  
+ 
+-- ---MOVIIRED 
+ INSERT INTO movii_nuevos_convenios.ws_operator (max_value, microservice_root, microservice_url, min_value, operator_name, name, details_expiration, operator_id, product_code, reg_exp, type, ean_code, multiple, status, status_view, product_image, tax, category_id, sub_type, calculate_iva) VALUES(27000, 'http://192.168.31.20:3178/ws_SUMA/', 'buyPackage', 27000, 'YOIN MOVIL', '3GB + Voz y SMS Ilimitados + Chat FB-WA. Hasta 30 dias', '30 Dias', 76, 'MicroYoinPremiumPlus_caja', '^3[0-9]{9}$', 1, '5500002700000 -INACT', 27000, 0, 0, 'https://tendero.moviired.co:64945/app/media/unicorn.png', '', NULL, 4, 0); 
+ 
+-- ---MOVII 
+ INSERT INTO movii_nuevos_convenios_movii.ws_operator (max_value, microservice_root, microservice_url, min_value, operator_name, name, details_expiration, operator_id, product_code, reg_exp, type, ean_code, multiple, status, status_view, product_image, tax, category_id, sub_type, calculate_iva) VALUES(27000, 'http://192.168.31.20:3178/ws_SUMA/', 'buyPackage', 27000, 'YOIN MOVIL', '3GB + Voz y SMS Ilimitados + Chat FB-WA. Hasta 30 dias', '30 Dias', 76, 'MicroYoinPremiumPlus_caja', '^3[0-9]{9}$', 1, '5500002700000 -INACT', 27000, 0, 0, 'https://tendero.moviired.co:64945/app/media/unicorn.png', '', NULL, 4, 0); 
+
+
+--  xxxxxxxxxxxxxxxxxxxxxxxxxx insert MicroYoinPremiumNavegacion_caja YOIN [6] xxxxxxxxxxxxxxxxxxxxxxxxxx  
+ 
+-- ---MOVIIRED 
+ INSERT INTO movii_nuevos_convenios.ws_operator (max_value, microservice_root, microservice_url, min_value, operator_name, name, details_expiration, operator_id, product_code, reg_exp, type, ean_code, multiple, status, status_view, product_image, tax, category_id, sub_type, calculate_iva) VALUES(58500, 'http://192.168.31.20:3178/ws_SUMA/', 'buyPackage', 58500, 'YOIN MOVIL', '15GB + Voz y SMS Ilimitados + Chat FB-WA. Hasta 30 dias', '30 Dias', 76, 'MicroYoinPremiumNavegacion_caja', '^3[0-9]{9}$', 1, '5500005850000 -INACT', 58500, 0, 0, 'https://tendero.moviired.co:64945/app/media/unicorn.png', '', NULL, 4, 0); 
+ 
+-- ---MOVII 
+ INSERT INTO movii_nuevos_convenios_movii.ws_operator (max_value, microservice_root, microservice_url, min_value, operator_name, name, details_expiration, operator_id, product_code, reg_exp, type, ean_code, multiple, status, status_view, product_image, tax, category_id, sub_type, calculate_iva) VALUES(58500, 'http://192.168.31.20:3178/ws_SUMA/', 'buyPackage', 58500, 'YOIN MOVIL', '15GB + Voz y SMS Ilimitados + Chat FB-WA. Hasta 30 dias', '30 Dias', 76, 'MicroYoinPremiumNavegacion_caja', '^3[0-9]{9}$', 1, '5500005850000 -INACT', 58500, 0, 0, 'https://tendero.moviired.co:64945/app/media/unicorn.png', '', NULL, 4, 0); 
